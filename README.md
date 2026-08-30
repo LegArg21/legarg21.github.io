@@ -25,11 +25,11 @@ Szalay Klára
 
 [2] Könczöl Miklós (2023). [Methods of constitutional reasoning in six CEE countries. (Tóth, J. Z. (Ed.) (2021). Constitutional Reasoning and Constitutional Interpretation: Analysis on Certain Central European Countries. Ferenc Mádl Institute of Comparative Law; CEA Publishing).](https://doi.org/10.17356/ieejsp.v9i1.1153) _Intersections, 9_(1), 145–147. 
 
-[3] Könczöl Miklós (2023). Classical Rhetoric, Legal Argumentation and the Semiotics of Law. In Anne Wagner & Sarah Marusek (eds.), _Research Handbook on Legal Semiotics_ (pp. 146–157). Edward Elgar. https://doi.org/10.4337/9781802207262.00018
+[3] Könczöl Miklós (2023). [Classical Rhetoric, Legal Argumentation and the Semiotics of Law.](https://doi.org/10.4337/9781802207262.00018) In Anne Wagner & Sarah Marusek (eds.), _Research Handbook on Legal Semiotics_ (pp. 146–157). Edward Elgar. 
 
-[4] Könczöl Miklós (2023). Rights and Future Persons: The Promise of Arguments from Present People’s Identity. _Public Governance, Administration and Finances Law Review, 8_(2), 29–40. https://doi.org/10.53116/pgaflr.7056
+[4] Könczöl Miklós (2023). [Rights and Future Persons: The Promise of Arguments from Present People’s Identity.](https://doi.org/10.53116/pgaflr.7056) _Public Governance, Administration and Finances Law Review, 8_(2), 29–40. 
 
-[5] Könczöl Miklós (2024). Culture and Identity: Two Emerging Topics in Hungarian Constitutional Law. _Institutiones Administrationis – Journal of Administrative Sciences, 4_(1), 26–35. https://doi.org/10.54201/iajas.v4i1.127
+[5] Könczöl Miklós (2024). [Culture and Identity: Two Emerging Topics in Hungarian Constitutional Law.](https://doi.org/10.54201/iajas.v4i1.127) _Institutiones Administrationis – Journal of Administrative Sciences, 4_(1), 26–35. 
 
 [6] Könczöl Miklós (2024). Jelek és szerepek: az aristotelési Rétorika bizonyításelmélete jogi szemiotikai szempontból. _Állam- és Jogtudomány, 65_(3), 24–36.  https://doi.org/10.51783/ajt.2024.3.02
 
