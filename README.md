@@ -1,2 +1,2 @@
-# legarg21.github.io
-Legal Argumentation in the 21st Century
+# Legal Argumentation in the 21st Century
+Research Project Homepage
