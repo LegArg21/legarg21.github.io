@@ -23,7 +23,7 @@ Szalay Klára
 
 [1] Bencze Mátyás (2026). [In the name of the people? The populist style of judicial reasoning and justificatory formalism.](https://doi.org/10.1556/2052.2025.00635) _Hungarian Journal of Legal Studies, 66_(2), 217–213. 
 
-[2] Könczöl Miklós (2023). Methods of constitutional reasoning in six CEE countries. (Tóth, J. Z. (Ed.) (2021). Constitutional Reasoning and Constitutional Interpretation: Analysis on Certain Central European Countries. Ferenc Mádl Institute of Comparative Law; CEA Publishing). _Intersections, 9_(1), 145–147. https://doi.org/10.17356/ieejsp.v9i1.1153
+[2] Könczöl Miklós (2023). [Methods of constitutional reasoning in six CEE countries. (Tóth, J. Z. (Ed.) (2021). Constitutional Reasoning and Constitutional Interpretation: Analysis on Certain Central European Countries. Ferenc Mádl Institute of Comparative Law; CEA Publishing).](https://doi.org/10.17356/ieejsp.v9i1.1153) _Intersections, 9_(1), 145–147. 
 
 [3] Könczöl Miklós (2023). Classical Rhetoric, Legal Argumentation and the Semiotics of Law. In Anne Wagner & Sarah Marusek (eds.), _Research Handbook on Legal Semiotics_ (pp. 146–157). Edward Elgar. https://doi.org/10.4337/9781802207262.00018
 
