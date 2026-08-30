@@ -21,7 +21,7 @@ Szalay Klára
 
 ## Közlemények ##
 
-[1] Bencze Mátyás (2026). In the name of the people? The populist style of judicial reasoning and justificatory formalism. _Hungarian Journal of Legal Studies, 66_(2), 217–213. https://doi.org/10.1556/2052.2025.00635
+[1] Bencze Mátyás (2026). [In the name of the people? The populist style of judicial reasoning and justificatory formalism.](https://doi.org/10.1556/2052.2025.00635) _Hungarian Journal of Legal Studies, 66_(2), 217–213. 
 
 [2] Könczöl Miklós (2023). Methods of constitutional reasoning in six CEE countries. (Tóth, J. Z. (Ed.) (2021). Constitutional Reasoning and Constitutional Interpretation: Analysis on Certain Central European Countries. Ferenc Mádl Institute of Comparative Law; CEA Publishing). _Intersections, 9_(1), 145–147. https://doi.org/10.17356/ieejsp.v9i1.1153
 
