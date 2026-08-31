@@ -19,6 +19,9 @@ Polyák Gábor
 
 Szalay Klára
 
+## Kutatási eredmények ##
+
+
 ## Közlemények ##
 
 [1] Bencze Mátyás (2026). [In the name of the people? The populist style of judicial reasoning and justificatory formalism.](https://doi.org/10.1556/2052.2025.00635) _Hungarian Journal of Legal Studies, 66_(2), 217–213. 
@@ -27,7 +30,7 @@ Szalay Klára
 
 [3] Könczöl Miklós (2023). [Methods of constitutional reasoning in six CEE countries. (Tóth, J. Z. (Ed.) (2021). Constitutional Reasoning and Constitutional Interpretation: Analysis on Certain Central European Countries. Ferenc Mádl Institute of Comparative Law; CEA Publishing).](https://doi.org/10.17356/ieejsp.v9i1.1153) _Intersections, 9_(1), 145–147. 
 
-[4] Könczöl Miklós (2023). [Classical Rhetoric, Legal Argumentation and the Semiotics of Law.](https://doi.org/10.4337/9781802207262.00018) In Anne Wagner & Sarah Marusek (eds.), _Research Handbook on Legal Semiotics_ (pp. 146–157). Edward Elgar. 
+[4] Könczöl Miklós (2023). [Classical Rhetoric, Legal Argumentation and the Semiotics of Law.](https://real.mtak.hu/176599/) In Anne Wagner & Sarah Marusek (eds.), _Research Handbook on Legal Semiotics_ (pp. 146–157). Edward Elgar. 
 
 [5] Könczöl Miklós (2023). [Rights and Future Persons: The Promise of Arguments from Present People’s Identity.](https://doi.org/10.53116/pgaflr.7056) _Public Governance, Administration and Finances Law Review, 8_(2), 29–40. 
 
@@ -55,7 +58,7 @@ Szalay Klára
 
 [17] Lux Ágnes (megjelenés alatt). The Rights of the Child and Future Generations. _Hungarian Journal of Legal Studies, 66_(3).
 
-[18] Szalay Klára (2023). _Kreatív iparágak globális versenye: az európai tartalompiac fenntarthatóságát célzó szabályozási eszközök – különös tekintettel az európai filmipar állami támogatására és a sajtótermékek szerzői jogi védelmére._ Doktori (PhD) értekezés, Pécsi Tudományegyetem, Állam- és jogtudományi Doktori Iskola. (kutatóhelyi vitán megvédett)
+[18] Szalay Klára (2023). _Kreatív iparágak globális versenye: az európai tartalompiac fenntarthatóságát célzó szabályozási eszközök – különös tekintettel az európai filmipar állami támogatására és a sajtótermékek szerzői jogi védelmére._ Doktori (PhD) értekezés, Pécsi Tudományegyetem, Állam- és jogtudományi Doktori Iskola.
 
 
 ## Konferencia-részvétel ##
